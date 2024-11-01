@@ -1,0 +1,27 @@
+		/* -------------------------------------------------------------
+		Do not change this CSS FIle.This file is dynamically generated 
+		-------------------------------------------------------------*/
+		
+				/* --------------------- 
+		Floating Bar CSS
+		------------------------*/
+		
+		
+		div.share-juice-floating-bar{
+			
+			margin-left: -20px;
+			background: #ddd;
+				
+				-moz-box-shadow: 3px 3px 4px #000 ;
+				-webkit-box-shadow: 3px 3px 4px 000;
+				box-shadow: 3px 3px 4px 000;
+				/* For IE 8 */
+				-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='000')";
+				/* For IE 5.5 - 7 */
+				filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='000');
+							
+		}
+		
+		
+		
+		

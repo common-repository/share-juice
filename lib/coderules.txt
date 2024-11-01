@@ -1,0 +1,9 @@
+a) All classes will use message class to create messages
+b) All classes will put the messages in instance of SJError
+c) If a method of a class adds a message, it will return instance of SJError not true or false
+d) All admin show form functions will show messages of SJError at the top
+
+Naming conventions 
+- Class name starts with SJ_
+- Function name starts with share_juice_
+- HTML ID/classes are represented as share-juice-this-id ( not _ )

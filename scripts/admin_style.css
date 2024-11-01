@@ -1,0 +1,196 @@
+
+
+#share-juice-admin
+{
+	width: 90%;
+}
+
+/*--------Admin Header ------------*/
+
+#share-juice-admin-header-wrap
+{
+
+	overflow: auto;
+	width: 100%;
+	margin: 5px 0 0 0;
+}
+#share-juice-admin-heading
+{
+
+}
+#share-juice-admin-heading h2
+{
+float: left;
+font-size: 1.7em;
+margin: 13px 0 0 0;
+border-bottom: 1px solid #FF8200;
+padding-bottom: 8px;
+}
+#share-juice-admin-logo
+{
+	float: right;
+}
+#share-juice-admin-version-info
+{
+text-align: right;
+padding: 5px 0;
+margin: 4px 0;
+}
+.share-juice-admin-version
+{
+font-family: "Comic Sans MS", Arial;
+font-size: 1.3em;
+padding: 3px;
+}
+.share-juice-admin-version-text{
+
+font-family: "Comic Sans MS", Arial;
+font-size: 1.3em;
+padding: 3px;
+
+
+}
+
+
+/*-----------------------------------------------------------*/
+/* Admin form  */
+/*-----------------------------------------------------------*/
+
+
+#share-juice-admin form label
+{
+
+	display: block;
+
+	padding-bottom: 6px;
+}
+
+#share-juice-admin form .share-juice-admin-side-label
+{
+	display: inline-block;
+}
+#share-juice-admin form textarea
+{
+	width: 400px;
+	height: 100px;
+}
+.share-juice-admin-label-and-field
+{
+	display: block;
+	padding: 10px 5px;
+}
+.share-juice-admin-field-grouping
+{
+	background: #F5F5F5;
+	margin: 10px 0;
+}
+
+.helper
+{
+	display: none;
+	position: absolute;
+	border: 2px solid #FFA20C;
+	padding: 8px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin-left: 10px;
+	width: 200px;
+	background: #FFC465;
+
+}
+
+
+/*------------------------------------------------------*/
+/* Accordion   */
+/*------------------------------------------------------*/
+
+h3.ui-accordion-header
+{
+	background: #FFE0A0;
+	color: #191919;
+	font-weight: bold;
+}
+.ui-accordion .ui-accordion-content
+{
+	background: #E9E9E9;
+}
+h3.ui-accordion-header-active{
+background:#FFC9A0;	
+}
+
+
+/*---------------------------------------------------------*/
+/* Table */
+/*-----------------------------------------------------*/
+#share-juice-admin table
+{
+	font-size: 1em;
+}
+#share-juice-admin thead
+{
+	background: #FFE0A0;
+}
+#share-juice-admin thead th
+{
+	text-align: left;
+	font-weight: none !important;
+}
+
+#share-juice-admin tbody
+{
+	background: #F1F1F1;
+}
+#share-juice-admin tbody td
+{
+	padding: 5px;
+	background: #ACACAC;
+	color: #fff;
+}
+/* Share Juice Documentation Video links */
+.share-juice-admin-helper-box
+{
+		background: yellow;
+display: inline-block;
+padding: 10px;
+}
+.share-juice-admin-helper-box ul
+{
+margin: 10px 24px;
+}
+
+.share-juice-admin-helper-box ul li
+{
+
+list-style-type: disc;
+}
+/* Og Meta Box */
+.share-juice-admin-og-meta-box{
+	
+}
+.share-juice-admin-og-meta-box label{
+	display: block;
+}
+.share-juice-admin-og-meta-box input[type="text"]{
+	width:100%;
+}
+.share-juice-admin-og-meta-box textarea{
+	width:100%;
+}
+
+.share-juice-admin-og-meta-box table
+{
+	width: 100%;
+}
+.share-juice-admin-og-meta-box table thead
+{
+	width: 100%;
+}
+th.sj-og-table-header-checkbox
+{
+	width: 5%;
+}
+th.sj-og-table-header-url
+{
+	width:90%;
+}
